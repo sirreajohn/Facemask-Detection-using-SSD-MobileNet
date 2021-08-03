@@ -1,0 +1,10 @@
+item
+{
+	name:'mask'
+	id:1
+}
+item
+{
+	name:'no_mask'
+	id:2
+}
